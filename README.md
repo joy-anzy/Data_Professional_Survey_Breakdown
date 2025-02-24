@@ -79,5 +79,5 @@ The level of education has proven to have a significant effect on the salary ear
 4.  Given that Python is the most preferred programming language, data professionals should prioritize mastering it. 
 5.  Since 43% find breaking into the data career difficult, professionals could focus on engaging in continuous learning, Participating in hackathons, attending webinars, and networking within the data community to access valuable exposure and opportunities.
 
-The full dashboard can be found [here](#datasurveydashboard)
+The full dashboard can be found [here](https://github.com/joy-anzy/Data_Professional_Survey_Breakdown/blob/main/data%20survey%20dashboard.pbix)
 
